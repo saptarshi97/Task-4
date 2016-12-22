@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task 4</string>
+    <string name="button_text">Next</string>
+    <string name="Name">Name Entered</string>
+    <string name="Age">Age Entered</string>
+</resources>
